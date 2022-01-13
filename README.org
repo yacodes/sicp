@@ -1,0 +1,6 @@
+#+TITLE: SICP in Guile
+#+AUTHOR: Aleksandr Yakunichev
+
+Solving SICP exercises in Guile Scheme here alongside with making notes.
+
+Using Guile Scheme is inspired by https://github.com/zv/SICP-guile.
